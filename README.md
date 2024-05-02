@@ -1,0 +1,1 @@
+# polkadot-sdk-solo-template2
